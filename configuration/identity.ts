@@ -1,6 +1,6 @@
-export const OWNER_NAME: string = `[OWNER NAME]`;
-export const OWNER_DESCRIPTION: string = `[OWNER DESCRIPTION]`;
+export const OWNER_NAME: string = `Kaanjaree`;
+export const OWNER_DESCRIPTION: string = `Computer Science and Data Science Major at  UNC Chapel Hill`;
 
-export const AI_NAME: string = `[AI NAME]`;
-export const AI_TONE: string = `[AI TONE]`;
-export const AI_ROLE: string = `[AI ROLE]`;
+export const AI_NAME: string = `BookBot`;
+export const AI_TONE: string = `friendly`;
+export const AI_ROLE: string = `bookstore advisor`;
